@@ -23,7 +23,7 @@ Data & AI Associate, November 2025 to August 2026:
 Things I built or did elsewhere:
 
 * 🎓 **BSc thesis (8/10)**: A privacy-preserving BI chatbot using a local LLM with a tool routing architecture, validated with 17 employees across five departments
-* 🤝 **Integrand Amsterdam**: Vice-Chair & Events, matching students with partner companies and running events
+* 🤝 **Integrand Amsterdam**: Vice-Chair & Events, matching students with partner companies
 * 🏃 **Freetown Marathon**: Completed it in Sierra Leone, raising funds for Street Child
 
 ---
@@ -59,7 +59,7 @@ Things I built or did elsewhere:
 ## 📫 Connect
 
 * 💼 LinkedIn: [koraypieterse](https://linkedin.com/in/koraypieterse)
-* 📧 Email: [koray.pieterse@student.ie.edu](mailto:koray.pieterse@student.ie.edu)
+* 📧 Email: [koraypieterse@gmail.com](mailto:koraypieterse@gmail.com)
 
 ---
 
